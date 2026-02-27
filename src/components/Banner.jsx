@@ -25,7 +25,7 @@ const Banner = () => {
 
         {/* Text Content */}
         <div className="banner-text">
-          <h1>I am Hammad</h1>
+          <h1>I am Hammad Olalekan </h1>
           <p>From Nigeria</p>
           <p>A Creative Computer Scientist & Software Developer</p>
           <div className="banner-buttons">
